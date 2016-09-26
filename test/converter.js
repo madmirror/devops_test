@@ -11,6 +11,9 @@ describe('color code converter', function() {
         it('2+3', function() {
             expect(2 + 3).to.equal(5);
         });
+        it('3*4', function () {
+        	expect(3*4).to.equal(12);
+        })
     })
 
 });
