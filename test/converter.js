@@ -12,7 +12,7 @@ describe('color code converter', function() {
             expect(2 + 3).to.equal(5);
         });
         it('3*4', function () {
-        	expect(3*4).to.equal(14);
+        	expect(2*7).to.equal(14);
         })
     })
 
