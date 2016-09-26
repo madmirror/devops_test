@@ -6,3 +6,6 @@ notifications:
     urls:
       - https://registry.hub.docker.com/u/madmirror/devops_test/trigger/cf84e9c8-8d80-4079-a4dd-51e66d420225/
     on_failure: never
+cache:
+  directories:
+    - node_modules
