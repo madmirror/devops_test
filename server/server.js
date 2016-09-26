@@ -2,7 +2,7 @@ let express = require('express');
 
 let app = express();
 
-console.log('starting express app');
+console.log('starting express app2');
 
 app.get('/', (req, res) => res.send('hello world'));
 
